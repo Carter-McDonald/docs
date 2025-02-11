@@ -38,9 +38,9 @@
         "tab": "API Reference",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "math",
             "pages": [
-              "api-reference/introduction"
+              "math/introduction"
             ]
           },
           {

@@ -35,12 +35,29 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "math",
         "groups": [
           {
-            "group": "math",
+            "group": "Mathematics",
             "pages": [
               "math/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "science",
+        "groups": [
+          {
+            "group": "Science",
+            "pages": [
+              "science/introduction"
             ]
           },
           {

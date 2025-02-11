@@ -30,7 +30,7 @@
         "tab": "Mathematics",
         "groups": [
           {
-            "group": "Mathematics",
+            "group": "math",
             "pages": [
               "math/math-home"
             ]

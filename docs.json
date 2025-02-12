@@ -41,12 +41,12 @@
         ]
       },
       {
-        "tab": "Overview",
+        "tab": "Mathematics",
         "groups": [
           {
-            "group": "Mathematics",
+            "group": "Overview",
             "pages": [
-              "math/mathematics"
+              "math/Mathematics"
             ]
           },
           {

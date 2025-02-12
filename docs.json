@@ -1,6 +1,6 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "$schema": "https://mintlify.com/mint.json",
+  "theme": "mint",
   "name": "Thomas Haney Secondary School",
   "colors": {
     "primary": "#16A34A",

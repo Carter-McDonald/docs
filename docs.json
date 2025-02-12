@@ -50,6 +50,12 @@
             ]
           },
           {
+            "group": "Courses",
+            "pages": [
+              "math8/introduction"
+            ]
+          },
+          {
             "group": "Endpoint Examples",
             "pages": [
               
